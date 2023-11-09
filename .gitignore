@@ -1,0 +1,9 @@
+# ignore directory temp
+/temp
+
+temp/
+
+#all firle
+*.txt
+
+/temp/*.js
