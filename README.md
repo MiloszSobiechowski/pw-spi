@@ -51,3 +51,7 @@ git status -s
 # git diff
 git diff --staged
 git diff
+
+
+# add, mod, delete remote url
+git remote -v
