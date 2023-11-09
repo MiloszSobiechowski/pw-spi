@@ -46,3 +46,8 @@ git add -h
 # status zmian
 git status
 git status -s
+
+
+# git diff
+git diff --staged
+git diff
